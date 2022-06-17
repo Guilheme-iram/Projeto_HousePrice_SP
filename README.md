@@ -17,9 +17,3 @@ O resultado esperado é um modelo o qual faz previsões dos preços das casas ba
 ### 3.4 - Tratando a coluna 'banheiros'
 ### 3.5 - Tratando a coluna 'vagas'
 ### 3.6 - Cotemplando as mudanças & salvando novo xlsx
-
-## 4 - Estatística descritiva dos dados
-
-### 4.1 - Medidas de centralidade e dispersão da area, quartos, banheiro, vagas e preco
-### 4.2 - Tratamento das variáveis com alto desvio
-### 4.3 - Vizualização das variáveis
