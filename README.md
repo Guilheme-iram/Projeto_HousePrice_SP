@@ -32,3 +32,5 @@ O resultado esperado é um modelo o qual faz previsões dos preços das casas ba
 ### 3.4 - Tratando a coluna 'banheiros'
 ### 3.5 - Tratando a coluna 'vagas'
 ### 3.6 - Cotemplando as mudanças & salvando novo xlsx
+
+
