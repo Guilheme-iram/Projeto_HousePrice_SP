@@ -5,6 +5,8 @@
 O projeto tem por objetivo, baseado nas características quantitativas do dataset, fazer uma análise visual desses atributos e propor um modelo de regressão.
 O resultado esperado é um modelo o qual faz previsões dos preços das casas baseadando-se nas características desejadas pelo cliente.
 
+## Sumário do projeto
+
 ## 1 - Carregando as bibliotecas
    
     matplotlib==3.6.0
@@ -33,4 +35,8 @@ O resultado esperado é um modelo o qual faz previsões dos preços das casas ba
 ### 3.5 - Tratando a coluna 'vagas'
 ### 3.6 - Cotemplando as mudanças & salvando novo xlsx
 
+## 4 - Visualização dos dados selecionados
 
+### 4.1 - Histograma do valor dos imóveis
+### 4.2 - Boxplots das features dos imóveis
+### 4.3 - Gráfico de dispersão da área (m²) e o custo dos imóveis (R$)
