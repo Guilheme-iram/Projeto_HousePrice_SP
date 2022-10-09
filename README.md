@@ -54,7 +54,8 @@ O resultado esperado é um modelo o qual faz previsões dos preços das casas ba
     sentido, vários modelos foram testados usando diferentes métricas 
     e técnicas para avaliar o desempenho de cada estratégia de regressão
     (no presente trabalho foram usadas regressão linear, polinomial,
-    árvore de decisão e floresta aleatória) tais como 
+    árvore de decisão e floresta aleatória) tais como validação cruzada
+    e métricas como R², MSE e MSA.
     
 
 ### 5.1 - Analisando a matriz de correlação
