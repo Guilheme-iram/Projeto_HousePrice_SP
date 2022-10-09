@@ -36,7 +36,32 @@ O resultado esperado é um modelo o qual faz previsões dos preços das casas ba
 ### 3.6 - Cotemplando as mudanças & salvando novo xlsx
 
 ## 4 - Visualização dos dados selecionados
-
+    
+    Nessa etapa, os dados serão plotados para se extrair informações
+    valiosas a respeito de seus comportamentos e variações.
+    Essa etapa também será fundamental para identificar elementos
+    e medidas necessárias para que a aplicação de Machine Learning
+    tenha resultados satisfatórios.
+    
 ### 4.1 - Histograma do valor dos imóveis
 ### 4.2 - Boxplots das features dos imóveis
 ### 4.3 - Gráfico de dispersão da área (m²) e o custo dos imóveis (R$)
+
+## 5 - Produzindo o modelo de Regressão
+    
+    Após tratar, vizualizar e selecionar os dados, chegou o momento
+    de usá-los para criar um bom modelo de Machine Learning. Nesse 
+    sentido, vários modelos foram testados usando diferentes métricas 
+    e técnicas para avaliar o desempenho de cada estratégia de regressão
+    (no presente trabalho foram usadas regressão linear, polinomial,
+    árvore de decisão e floresta aleatória) tais como 
+    
+
+### 5.1 - Analisando a matriz de correlação
+### 5.2 - Analisando o histograma da variável de controle
+### 5.3 - Separação entre dados de treino e dados de teste
+### 5.4 - Criando os modelos de Regressão
+#### a) Dummy Regressor
+#### b) Regressão Linear/ Polinomial
+#### c) Decision Tree Regressor: Árvore de Decisao
+#### d) Random Forest Regressor: Floresta Aleatória
